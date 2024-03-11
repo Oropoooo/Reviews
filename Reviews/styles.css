@@ -1,0 +1,21 @@
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  h1, h2 {
+    text-align: center;
+  }
+  
+  #reviews {
+    margin-bottom: 20px;
+  }
+  
+  .review {
+    margin-bottom: 10px;
+  }
+  
+  .review p {
+    margin: 5px 0;
+  }
